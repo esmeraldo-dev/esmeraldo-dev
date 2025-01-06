@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-Olá! Eu sou Vinícius Esmeraldo!<br><br>Sou programador FrontEnd e trabalho com as tecnologias HTML5, CSS3, JavaScript, Bootstrap, React e Angular buscando construir projetos que sejam funcionais e bem elaborados. Meu objetivo é aprender cada vez mais enquanto desenvolvo soluções digitais que agreguem valor.<br><br>Exploro novas ideias e transformo conceitos em projetos reais. Gosto de trabalhar em equipe, pois acredito que a colaboração é essencial para alcançar resultados incríveis. <br><br>Estou sempre experimentando tecnologias modernas como React e Bootstrap, com foco em manter códigos organizados e bem documentados.
+Olá! Eu sou Vinícius Esmeraldo!<br><br>Sou programador FrontEnd e estou acumulando conhecimento nas tecnologias HTML5, CSS3, JavaScript, Bootstrap, React e Angular buscando construir projetos que sejam funcionais e bem elaborados. Meu objetivo é aprender cada vez mais enquanto desenvolvo soluções digitais que agreguem valor.<br><br>Exploro novas ideias e transformo conceitos em projetos reais. Gosto de trabalhar em equipe, pois acredito que a colaboração é essencial para alcançar resultados incríveis. <br><br>Estou sempre experimentando tecnologias modernas como React e Bootstrap, com foco em manter códigos organizados e bem documentados.
 
 
 ## 🌐 Redes Sociais:
