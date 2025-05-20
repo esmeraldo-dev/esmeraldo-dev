@@ -30,9 +30,10 @@ Atualmente, venho acumulando experiências com projetos pessoais e usando Git/Gi
 
 ### 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=esmeraldo-dev&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=esmeraldo-dev&theme=transparent&hide_border=false)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=viniciusesmeraldo&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusesmeraldo&layout=compact&theme=tokyonight" width="48%" />
+</p>
 
 ---
 
