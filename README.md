@@ -25,11 +25,7 @@ Atualmente, venho acumulando experiências com projetos pessoais e usando Git/Gi
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/></code>
 </div>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,node,git,github,vscode&theme=dark" />
-  </a>
-</p>
+
 ---
 
 ### 📊 GitHub Stats
