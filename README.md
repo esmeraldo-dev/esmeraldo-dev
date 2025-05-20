@@ -39,11 +39,17 @@ Atualmente, venho acumulando experiências com projetos pessoais e usando Git/Gi
 
 ### 📬 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusesmeraldo)  
-[![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://seuportfolio.com)  
-[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](vinicius.esmeraldodev@gmail.com)
-
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/viniciusesmeraldo">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://seuportfolio.com">
+    <img src="https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:vinicius.esmeraldodev@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 ---
 
 <p align="center">Feito com carinho por Vinicius Esmeraldo</p>
