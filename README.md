@@ -30,17 +30,16 @@ Atualmente, venho acumulando experiências com projetos pessoais e usando Git/Gi
 
 ### 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=esmeraldo-dev&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=esmeraldo-dev&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=esmeraldo-dev&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=esmeraldo-dev&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ---
 
 ### 📬 Vamos nos conectar?
 
-<div align="center"> 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusesmeraldo)  [![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://seuportfolio.com)  [![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](vinicius.esmeraldodev@gmail.com)
-</div>
+
 
 ---
 
