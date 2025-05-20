@@ -43,4 +43,4 @@ Atualmente, venho acumulando experiências com projetos pessoais e usando Git/Gi
 
 ---
 
-<p align="center">Feito com carinhho por Vinicius Esmeraldo</p>
+<p align="center">Feito com carinho por Vinicius Esmeraldo</p>
