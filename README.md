@@ -1,27 +1,47 @@
-# 💫 Sobre mim:
-Olá! Eu sou Vinícius Esmeraldo!
+<h1 align="center">Vinicius Esmeraldo 👋</h1>
 
-Sou programador BackEnd e estou acumulando conhecimento nas tecnologias HTML5, CSS3, JavaScript, Node.JS e React buscando construir projetos que sejam funcionais e bem elaborados. Meu objetivo é aprender cada vez mais enquanto desenvolvo soluções digitais que agreguem valor.
-
-Exploro novas ideias e transformo conceitos em projetos reais. Gosto de trabalhar em equipe, pois acredito que a colaboração é essencial para alcançar resultados incríveis.
-
-Estou sempre experimentando tecnologias modernas, com foco em manter códigos organizados e bem documentados.
-
-
-## 🌐 Redes Sociais:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/viniciusesmeraldo/) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=esmeraldo-dev&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=esmeraldo-dev&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=esmeraldo-dev&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+Desenvolvedor Back-end em formação, focado em JavaScript e Node.js.  
+Com vontade de aprender, vontade de melhorar, vontade de contribuir. 🚀
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=esmeraldo-dev&icon=1&color=1)](https://visitcount.itsvg.in)
 
+### 🧠 Sobre Mim
+
+Sou desenvolvedor back-end em formação, apaixonado por JavaScript e Node.js. Estou com muita vontade de aprender, crescer na área e contribuir com projetos que impactem pessoas de verdade.
+
+Atualmente, venho acumulando experiências com projetos pessoais e usando Git/GitHub no meu dia a dia de estudos. Curto entender como as aplicações funcionam por trás das cortinas, escrever código limpo e resolver bugs como quem resolve quebra-cabeças!
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=viniciusesmeraldo&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusesmeraldo&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
+---
+
+### 📬 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusesmeraldo)  
+[![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://seuportfolio.com)  
+[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](vinicius.esmeraldodev@gmail.com)
+
+---
+
+<p align="center">Feito com carinhho por Vinicius Esmeraldo</p>
