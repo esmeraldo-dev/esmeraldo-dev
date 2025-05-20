@@ -43,7 +43,7 @@ Atualmente, venho acumulando experiências com projetos pessoais e usando Git/Gi
   <a href="https://www.linkedin.com/in/viniciusesmeraldo">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://seuportfolio.com">
+  <a href="https://www.esmeraldodev.com/">
     <img src="https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:vinicius.esmeraldodev@gmail.com">
