@@ -31,6 +31,13 @@ Atualmente, venho acumulando experiências com projetos pessoais e usando Git/Gi
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/></code>
 </div>
 
+<!-- Snake: animação das contribuições -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/esmeraldo-dev/esmeraldo-dev/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/esmeraldo-dev/esmeraldo-dev/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/esmeraldo-dev/esmeraldo-dev/output/github-snake.svg" />
+</picture>
+
 ---
 
 ### 📊 GitHub Stats
