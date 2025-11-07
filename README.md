@@ -1,7 +1,7 @@
 <h1 align="center">Vinicius Esmeraldo 👋</h1>
 
 <p align="center">
-Desenvolvedor Back-end em formação, focado em JavaScript e Node.js.  
+Desenvolvedor Back-end em formação, focado em Java, Spring Boot e APIs REST.  
 Com vontade de aprender, vontade de melhorar, vontade de contribuir. 🚀
 </p>
 
@@ -9,9 +9,9 @@ Com vontade de aprender, vontade de melhorar, vontade de contribuir. 🚀
 
 ### 🧠 Sobre Mim
 
-Sou desenvolvedor back-end em formação, apaixonado por JavaScript e Node.js. Estou com muita vontade de aprender, crescer na área e contribuir com projetos que impactem pessoas de verdade.
+Sou desenvolvedor back-end em formação, atualmente focado em **Java, Spring Boot, APIs REST e boas práticas de arquitetura**. Tenho me dedicado a aprofundar meus conhecimentos em backend, criando projetos pessoais que reforçam minha base técnica e minha capacidade de resolver problemas de forma clara e eficiente.
 
-Atualmente, venho acumulando experiências com projetos pessoais e usando Git/GitHub no meu dia a dia de estudos. Curto entender como as aplicações funcionam por trás das cortinas, escrever código limpo e resolver bugs como quem resolve quebra-cabeças!
+Uso **Git e GitHub** diariamente no meu fluxo de estudos e desenvolvimento, sempre buscando organização, versionamento correto e código limpo. Curto entender o funcionamento interno das aplicações, desde a lógica até o ciclo de vida das requisições. Resolver bugs, para mim, é como montar um quebra-cabeça — cada detalhe importa e completar a imagem final é sempre gratificante!
 
 ---
 
@@ -31,6 +31,20 @@ Atualmente, venho acumulando experiências com projetos pessoais e usando Git/Gi
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/></code>
 </div>
 
+---
+
+### 🚀 Conhecimentos em Destaque
+
+✅ Java (POO, Coleções, Streams, JDBC)  
+✅ Spring Boot (Spring Web, Spring Data JPA, APIs REST)  
+✅ Criação de APIs RESTful  
+✅ Boas práticas de código e arquitetura  
+✅ Versionamento com Git e GitHub  
+✅ Testes básicos e depuração  
+✅ Docker & Containers (conceitos essenciais)  
+✅ AWS (noções iniciais)
+
+---
 <!-- Snake: animação das contribuições -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/esmeraldo-dev/esmeraldo-dev/output/github-snake-dark.svg" />
