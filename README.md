@@ -79,8 +79,6 @@ No meu dia a dia transformo essa maturidade analítica em código limpo, testáv
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=esmeraldo-dev&theme=tokyonight" width="48%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=esmeraldo-dev&theme=tokyonight" width="48%" />
-  <br>
-  <img src="https://streak-stats.demolab.com/?user=esmeraldo-dev&theme=tokyonight" width="96%" />
 </p>
 
 ---
