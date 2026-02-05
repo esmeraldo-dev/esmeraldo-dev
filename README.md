@@ -77,8 +77,8 @@ No meu dia a dia transformo essa maturidade analítica em código limpo, testáv
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=esmeraldo-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esmeraldo-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=esmeraldo-dev&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esmeraldo-dev&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ---
