@@ -20,7 +20,7 @@ Sou um Desenvolvedor Backend focado no ecossistema **Java (17+)** e **Spring Boo
 
 Minha transição para a engenharia de software não foi uma fuga, foi uma evolução. Diferente de quem corre de problemas, eu fui treinado para **correr em direção à tempestade**. Entendo que um bug em produção não é apenas um erro de sintaxe, é impacto financeiro e risco de negócio.
 
-No meu dia a dia com **IntelliJ** e **Windows**, transformo essa maturidade analítica em código limpo, testável e seguro. Meu foco não é apenas fazer funcionar, é garantir integridade, auditabilidade e escalabilidade.
+No meu dia a dia transformo essa maturidade analítica em código limpo, testável e seguro. Meu foco não é apenas fazer funcionar, é garantir integridade, auditabilidade e escalabilidade.
 
 ---
 
