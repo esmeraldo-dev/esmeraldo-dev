@@ -1,57 +1,68 @@
-<h1 align="center">Vinicius Esmeraldo 👋</h1>
+<h1 align="center">Vinicius Esmeraldo ☕</h1>
 
 <p align="center">
-Desenvolvedor Back-end em formação, focado em Java, Spring Boot e APIs REST.  
-Com vontade de aprender, vontade de melhorar, vontade de contribuir. 🚀
+  <b>Java Backend Developer | Spring Boot 3 | Resiliência & Performance</b><br>
+  <i>"Não fujo da complexidade; uso ela para construir sistemas robustos."</i>
+</p>
+
+<p align="center">
+  <a href="#-sobre-mim">Sobre Mim</a> •
+  <a href="#-tech-stack">Tech Stack</a> •
+  <a href="#-diferenciais">Diferenciais</a> •
+  <a href="#-vamos-conversar">Contato</a>
 </p>
 
 ---
 
 ### 🧠 Sobre Mim
 
-Sou desenvolvedor back-end em formação, atualmente focado em **Java, Spring Boot, APIs REST e boas práticas de arquitetura**. Tenho me dedicado a aprofundar meus conhecimentos em backend, criando projetos pessoais que reforçam minha base técnica e minha capacidade de resolver problemas de forma clara e eficiente.
+Sou um Desenvolvedor Backend focado no ecossistema **Java (17+)** e **Spring Boot 3**, mas trago na bagagem algo que não se ensina em bootcamp: **10 anos de vivência em ambientes de alta responsabilidade**. 
 
-Uso **Git e GitHub** diariamente no meu fluxo de estudos e desenvolvimento, sempre buscando organização, versionamento correto e código limpo. Curto entender o funcionamento interno das aplicações, desde a lógica até o ciclo de vida das requisições. Resolver bugs, para mim, é como montar um quebra-cabeça — cada detalhe importa e completar a imagem final é sempre gratificante!
+Minha transição para a engenharia de software não foi uma fuga, foi uma evolução. Diferente de quem corre de problemas, eu fui treinado para **correr em direção à tempestade**. Entendo que um bug em produção não é apenas um erro de sintaxe, é impacto financeiro e risco de negócio.
+
+No meu dia a dia com **IntelliJ** e **Windows**, transformo essa maturidade analítica em código limpo, testável e seguro. Meu foco não é apenas fazer funcionar, é garantir integridade, auditabilidade e escalabilidade.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tech Stack
+
 <div align="center">
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png" alt="IntelliJ" title="IntelliJ"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swagger.png" alt="Swagger" title="Swagger"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" alt="Spring Boot" title="Spring Boot"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="REST" title="REST"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/maven.png" alt="Maven" title="Maven"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/hibernate.png" alt="Hibernate" title="Hibernate"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lombok.png" alt="Lombok" title="Lombok"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/junit.png" alt="JUnit" title="JUnit"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mocikto.png" alt="mocikto" title="mocikto"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" title="Postman"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" alt="AWS" title="AWS"/></code>
+  
+  **Core & Frameworks**<br>
+  <code><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" alt="Spring Boot" title="Spring Boot"/></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/hibernate.png" alt="Hibernate/JPA" title="Hibernate/JPA"/></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/maven.png" alt="Maven" title="Maven"/></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lombok.png" alt="Lombok" title="Lombok"/></code>
+
+  <br>**Quality & Testing**<br>
+  <code><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/junit.png" alt="JUnit 5" title="JUnit 5"/></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mocikto.png" alt="Mockito" title="Mockito"/></code>
+  
+  <br>**Database & DevOps**<br>
+  <code><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" alt="AWS" title="AWS Cloud"/></code>
+  
+  <br>**Tools**<br>
+  <code><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png" alt="IntelliJ IDEA" title="IntelliJ IDEA"/></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" title="Postman"/></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swagger.png" alt="Swagger" title="Swagger"/></code>
+
 </div>
 
 ---
 
-### 🚀 Conhecimentos em Destaque
+### ⚡ Diferenciais (Hard & Soft Skills)
 
-✅ Java (POO, Coleções, Streams, JDBC)  
-✅ Spring Boot (Spring Web, Spring Data JPA, APIs REST)  
-✅ Criação de APIs RESTful  
-✅ Boas práticas de código e arquitetura  
-✅ Versionamento com Git e GitHub  
-✅ Testes básicos e depuração  
-✅ Docker & Containers (conceitos essenciais)  
-✅ AWS (noções iniciais)
+* **Java Moderno:** Domínio de Java 17+, Streams API, Records e programação funcional.
+* **Arquitetura Robusta:** Implementação de APIs RESTful seguindo princípios SOLID e Clean Architecture.
+* **Segurança & Dados:** Foco em integridade transacional (ACID) e segurança aplicada (autenticação/autorização), herança da minha bagagem em operações críticas.
+* **Mentalidade de Dono:** Não espero o bug ser reportado. Testes automatizados (Unitários e Integração) fazem parte do meu "Definition of Done".
 
 ---
-<!-- Snake: animação das contribuições -->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/esmeraldo-dev/esmeraldo-dev/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/esmeraldo-dev/esmeraldo-dev/output/github-snake.svg" />
@@ -63,25 +74,29 @@ Uso **Git e GitHub** diariamente no meu fluxo de estudos e desenvolvimento, semp
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=esmeraldo-dev&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esmeraldo-dev&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=esmeraldo-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esmeraldo-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
 </p>
 
 ---
 
-### 📬 Vamos nos conectar?
+### 📬 Vamos conversar?
+
+Estou sempre aberto a discutir arquitetura de software, novos desafios em Java ou simplesmente trocar uma ideia sobre tecnologia.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/viniciusesmeraldo">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.esmeraldodev.com/">
     <img src="https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:vinicius.esmeraldodev@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
----
 
-<p align="center">Feito com carinho por Vinicius Esmeraldo</p>
+<p align="center">
+<i>"O código é a ferramenta, a solução é o objetivo."</i><br>
+Feito com ☕ e Java por Vinicius Esmeraldo
+</p>
