@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="#-sobre-mim">Sobre Mim</a> •
-  <a href="#-tech-stack">Tech Stack</a> •
+  <a href="#tech-stack">Tech Stack</a>
   <a href="#-diferenciais-hard--soft-skills">Diferenciais</a> •
   <a href="#-vamos-conversar">Contato</a>
 </p>
@@ -24,6 +24,7 @@ No meu dia a dia transformo essa maturidade analítica em código limpo, testáv
 
 ---
 
+<a name="tech-stack"></a>
 ### 🛠️ Tech Stack
 
 <div align="center">
