@@ -8,7 +8,7 @@
 <p align="center">
   <a href="#-sobre-mim">Sobre Mim</a> •
   <a href="#-tech-stack">Tech Stack</a> •
-  <a href="#-diferenciais">Diferenciais</a> •
+  <a href="#-diferenciais-hard--soft-skills">Diferenciais</a> •
   <a href="#-vamos-conversar">Contato</a>
 </p>
 
