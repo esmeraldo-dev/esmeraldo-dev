@@ -6,14 +6,15 @@
 </p>
 
 <p align="center">
-  <a href="#-sobre-mim">Sobre Mim</a> •
+  <a href="#sobre-mim">Sobre Mim</a>
   <a href="#tech-stack">Tech Stack</a>
-  <a href="#-diferenciais-hard--soft-skills">Diferenciais</a> •
-  <a href="#-vamos-conversar">Contato</a>
+  <a href="#diferenciais-hard--soft-skills">Diferenciais</a> •
+  <a href="#vamos-conversar">Contato</a>
 </p>
 
 ---
 
+<a name="sobre-mim"></a>
 ### 🧠 Sobre Mim
 
 Sou um Desenvolvedor Backend focado no ecossistema **Java (17+)** e **Spring Boot 3**, mas trago na bagagem algo que não se ensina em bootcamp: **10 anos de vivência em ambientes de alta responsabilidade**. 
@@ -55,6 +56,7 @@ No meu dia a dia transformo essa maturidade analítica em código limpo, testáv
 
 ---
 
+<a name="diferenciais-hard--soft-skills"></a>
 ### ⚡ Diferenciais (Hard & Soft Skills)
 
 * **Java Moderno:** Domínio de Java 17+, Streams API, Records e programação funcional.
@@ -81,6 +83,7 @@ No meu dia a dia transformo essa maturidade analítica em código limpo, testáv
 
 ---
 
+<a name="vamos-conversar"></a>
 ### 📬 Vamos conversar?
 
 Estou sempre aberto a discutir arquitetura de software, novos desafios em Java ou simplesmente trocar uma ideia sobre tecnologia.
