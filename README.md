@@ -1,6 +1,55 @@
 <h1 align="center">Vinicius Esmeraldo ☕</h1>
 
 <p align="center">
+  <a href="#-english">English</a> • 
+  <a href="#-português">Português</a>
+</p>
+
+---
+
+<a name="-english"></a>
+## 🇺🇸 English
+
+<p align="center">
+  <b>Java Backend Developer | Spring Boot 3 | Resilience & Performance</b><br>
+  <i>"I don't run from complexity; I use it to build robust systems."</i>
+</p>
+
+<p align="center">
+  <a href="#about-me">About Me</a> • 
+  <a href="#tech-stack">Tech Stack</a> • 
+  <a href="#highlights">Highlights</a> • 
+  <a href="#contact">Contact</a>
+</p>
+
+<a name="about-me"></a>
+### 🧠 About Me
+
+I am a Backend Developer focused on the **Java (17+)** and **Spring Boot 3** ecosystem, but I bring something that isn't taught in bootcamps: **10 years of experience in high-responsibility environments**.
+
+My transition to software engineering was not an escape; it was an evolution. Unlike those who run from problems, I was trained to **run towards the storm**. I understand that a production bug is not just a syntax error; it is financial impact and business risk.
+
+In my daily routine, I transform this analytical maturity into clean, testable, and secure code. My focus is not just on making it work, but on ensuring integrity, auditability, and scalability.
+
+<a name="highlights"></a>
+### ⚡ Highlights (Hard & Soft Skills)
+
+* **Modern Java:** Proficiency in Java 17+, Streams API, Records, and functional programming.
+* **Robust Architecture:** Implementation of RESTful APIs following SOLID principles and Clean Architecture.
+* **Security & Data:** Focus on transactional integrity (ACID) and applied security (authentication/authorization), inherited from my background in critical operations.
+* **Ownership Mindset:** I don't wait for the bug to be reported. Automated tests (Unit and Integration) are part of my "Definition of Done".
+
+<a name="contact"></a>
+### 📬 Let's talk?
+
+I'm always open to discussing software architecture, new challenges in Java, or just exchanging ideas about technology.
+
+---
+
+<a name="-português"></a>
+## 🇧🇷 Português
+
+<p align="center">
   <b>Java Backend Developer | Spring Boot 3 | Resiliência & Performance</b><br>
   <i>"Não fujo da complexidade; uso ela para construir sistemas robustos."</i>
 </p>
@@ -8,11 +57,9 @@
 <p align="center">
   <a href="#sobre-mim">Sobre Mim</a> • 
   <a href="#tech-stack">Tech Stack</a> • 
-  <a href="#diferenciais-hard--soft-skills">Diferenciais</a> •
+  <a href="#diferenciais-hard--soft-skills">Diferenciais</a> • 
   <a href="#vamos-conversar">Contato</a>
 </p>
-
----
 
 <a name="sobre-mim"></a>
 ### 🧠 Sobre Mim
@@ -23,10 +70,23 @@ Minha transição para a engenharia de software não foi uma fuga, foi uma evolu
 
 No meu dia a dia transformo essa maturidade analítica em código limpo, testável e seguro. Meu foco não é apenas fazer funcionar, é garantir integridade, auditabilidade e escalabilidade.
 
+<a name="diferenciais-hard--soft-skills"></a>
+### ⚡ Diferenciais (Hard & Soft Skills)
+
+* **Java Moderno:** Domínio de Java 17+, Streams API, Records e programação funcional.
+* **Arquitetura Robusta:** Implementação de APIs RESTful seguindo princípios SOLID e Clean Architecture.
+* **Segurança & Dados:** Foco em integridade transacional (ACID) e segurança aplicada (autenticação/autorização), herança da minha bagagem em operações críticas.
+* **Mentalidade de Dono:** Não espero o bug ser reportado. Testes automatizados (Unitários e Integração) fazem parte do meu "Definition of Done".
+
+<a name="vamos-conversar"></a>
+### 📬 Vamos conversar?
+
+Estou sempre aberto a discutir arquitetura de software, novos desafios em Java ou simplesmente trocar uma ideia sobre tecnologia.
+
 ---
 
 <a name="tech-stack"></a>
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack (Global)
 
 <div align="center">
   
@@ -56,16 +116,6 @@ No meu dia a dia transformo essa maturidade analítica em código limpo, testáv
 
 ---
 
-<a name="diferenciais-hard--soft-skills"></a>
-### ⚡ Diferenciais (Hard & Soft Skills)
-
-* **Java Moderno:** Domínio de Java 17+, Streams API, Records e programação funcional.
-* **Arquitetura Robusta:** Implementação de APIs RESTful seguindo princípios SOLID e Clean Architecture.
-* **Segurança & Dados:** Foco em integridade transacional (ACID) e segurança aplicada (autenticação/autorização), herança da minha bagagem em operações críticas.
-* **Mentalidade de Dono:** Não espero o bug ser reportado. Testes automatizados (Unitários e Integração) fazem parte do meu "Definition of Done".
-
----
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/esmeraldo-dev/esmeraldo-dev/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/esmeraldo-dev/esmeraldo-dev/output/github-snake.svg" />
@@ -83,11 +133,6 @@ No meu dia a dia transformo essa maturidade analítica em código limpo, testáv
 
 ---
 
-<a name="vamos-conversar"></a>
-### 📬 Vamos conversar?
-
-Estou sempre aberto a discutir arquitetura de software, novos desafios em Java ou simplesmente trocar uma ideia sobre tecnologia.
-
 <p align="center">
   <a href="https://www.linkedin.com/in/viniciusesmeraldo">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -101,6 +146,6 @@ Estou sempre aberto a discutir arquitetura de software, novos desafios em Java o
 </p>
 
 <p align="center">
-<i>"O código é a ferramenta, a solução é o objetivo."</i><br>
-Feito com ☕ e Java por Vinicius Esmeraldo
+<i>"Code is the tool, the solution is the goal."</i> / <i>"O código é a ferramenta, a solução é o objetivo."</i><br>
+Made with ☕ and Java by Vinicius Esmeraldo
 </p>
